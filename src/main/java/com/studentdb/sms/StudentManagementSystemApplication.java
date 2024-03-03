@@ -10,6 +10,9 @@ public class StudentManagementSystemApplication{
 		SpringApplication.run(StudentManagementSystemApplication.class, args);
 	}
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> cb69bbf4c44e2d10225cf46be06add91f17c3166
 }
