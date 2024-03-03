@@ -15,14 +15,4 @@ public class StudentManagementSystemApplication implements CommandLineRunner{
 		SpringApplication.run(StudentManagementSystemApplication.class, args);
 	}
 
-	@Autowired
-	private StudentRepository studentRepository;
-	
-	@Override
-	public void run(String... args) throws Exception {
-//		Student student1=new Student("slaman", "Khan", "salman@gmail.com");
-//		studentRepository.save(student1);
-		
-	}
-
 }
